@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Taban Soleymani
+## I'm Nguyen Hai Long
 ![](https://komarev.com/ghpvc/?username=your-taabann&color=0069b4)
 <!---
 <p align="center">
@@ -113,11 +113,11 @@
         <br>if you need further information or help.
       </p>
       <br>
-      <a href="https://www.instagram.com/taabannn/" target="_blank">
-      <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+      <a href="https://www.instagram.com/nguyenhailong305/" target="_blank">
+      <img align="center" alt="Nguyen Hai Long | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
       </a> &nbsp;&nbsp;
-      <a href="mailto:taabansoleymani@gmail.com" >
-      <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+      <a href="mailto:nguyenhailong305@gmail.com" >
+      <img align="center" alt="Nguyen Hai Long | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;
       <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
       <img align="center" alt="Taban Soleymani | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
@@ -134,7 +134,4 @@
   </tr>
 </table>
 
-<!---
-Taabannn/Taabannn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
