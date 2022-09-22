@@ -16,22 +16,22 @@
       <br>
       <blockquote>
         <p> 
-          I'm currently the last year student at **FPT University - Ho Chi Minh City Campus**(Thesis Title: "Designing
+          I majored in **Informatics and computer engineering**(Thesis Title: "Model of filling 
           <br>
-          IoT Network Simulator Based on MQTT Protocol"), and my 
+          and capping controlled via internet connection"), and my 
           <br>
-          research is focused on edge-caching in IoT networks. 
+        research is focused on edge-caching in IoT networks.
           <br>
-          Currently, learning python, and here I share my hands-on  
+          Currently, learning Javascript, and here I share my hands-on  
           <br>
           and course project repositories.
         </p>
       </blockquote>
        <ul>
-        <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>📚 &nbsp; Studying M.Sc of Communication Networks at <a href="https://ut.ac.ir/en">UT</a></li>
-        <li>👩‍💻 &nbsp; Junior Java Back-end Developer </li>
-        <li>🤔 &nbsp; Interested in Machine Learning and Optimization</li>
+        <li>🎓 &nbsp; B.Sc of Computer Engineering at  <a href="https://ut.ac.ir/en">IS VNU</a></li>
+        <li>📚 &nbsp; Studying Javascript , Java  at <a href="https://ut.ac.ir/en">ELEDEVO Company</a></li>
+        <li>👩‍💻 &nbsp; Fresher Javascript Front-end Back-end Developer </li>
+        <li>🤔 &nbsp; Interested in Web and Optimization</li>
        </ul>
        <br>
     </td>
