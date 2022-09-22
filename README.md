@@ -16,7 +16,7 @@
       <br>
       <blockquote>
         <p> 
-          I majored in electrical engineering (Thesis Title: "Designing
+          I'm currently the last year student at **FPT University - Ho Chi Minh City Campus**(Thesis Title: "Designing
           <br>
           IoT Network Simulator Based on MQTT Protocol"), and my 
           <br>
@@ -38,7 +38,7 @@
     <td width="45%">
      <p align="center">
       <a href="https://github.com/nguyenhailong305">
-       <img src="images/java-python-developer.png"/>
+       <img src="https://github.com/Taabannn/Taabannn/raw/main/images/java-python-developer.png"/>
       </a>
      </p>
     </td>
