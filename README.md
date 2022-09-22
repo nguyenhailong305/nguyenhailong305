@@ -132,7 +132,8 @@
     </div>
    </td>
   </tr>
-  ![Aditya's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=redical&hide_border=true&area=true
+  
 </table>
+https://activity-graph.herokuapp.com/graph?username=nguyenhailong305&theme=redical&hide_border=true&area=true
 
 
